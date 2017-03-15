@@ -1,0 +1,25 @@
+{
+  "name": "find-missing-array-value",
+  "version": "1.0.0",
+  "description": "find missing array value",
+  "main": "app/findmissinglib.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine test/findmissingtest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "akande oladimeji",
+  "license": "ISC"
+}
